@@ -1,8 +1,8 @@
 # Sudhir Khare
 
-Sudhir Khare is presently working as a scientist in **Defence Research & Development Organisation**, India. He has been engaged in research, design and development in the area of **infrared imaging** for last 25 years. His research interests include *system design*, *IR signal processing* and *performance evaluation of thermal imaging systems*. He has published more than 25 papers in journals and is also a *Life Member of Optical Society of India*. He is pursuing **PhD degree in Microelectronics and VLSI Group**, Department of Electronics and Communication Engineering, **Indian Institute of Technology Roorkee**, under the supervision of **Dr. Brajesh Kumar Kaushik**. He is recipient of **DRDO scientist of the year award 2017** and **Agni Award for Excellence in Self Reliance in 2009, 2012 and 2014.**
+Sudhir Khare is presently working as a scientist in **Defence Research & Development Organisation**, India. He has been engaged in research, design and development in the area of **infrared imaging** for last 25 years. His research interests include *system design*, *IR signal processing* and *performance evaluation of thermal imaging systems*. He has published more than 25 papers in reputed journals and conference proceedings and is also a *Life Member of Optical Society of India*. He is pursuing **PhD degree in Microelectronics and VLSI Group**, Department of Electronics and Communication Engineering, **Indian Institute of Technology Roorkee**, under the supervision of **Dr. Brajesh Kumar Kaushik**. He is recipient of **DRDO scientist of the year award 2017** and **Agni Award for Excellence in Self Reliance in 2009, 2012 and 2014.**
 
-## Reputed Journals and Conference Proceedings
+## Recent Publications
 
 [1] **Sudhir Khare**, Manvendra Singh, and Brajesh Kumar Kaushik, *“Fast and robust video stabilization with preserved intentional camera motion and smear removal for infrared video,”* IET Image Processing, vol. 14, no. 2, pp. 376-383, Feb. 2020, doi: 10.1049/iet-ipr.2019.0764.   
 
